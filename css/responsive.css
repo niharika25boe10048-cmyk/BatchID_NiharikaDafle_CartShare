@@ -1,0 +1,12 @@
+@media(max-width:768px){
+
+.row{
+display:flex;
+flex-direction:column;
+}
+
+table{
+font-size:14px;
+}
+
+}
